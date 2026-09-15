@@ -1,7 +1,4 @@
 # Docker Projects
-[![LinkedIn](https://www.linkedin.com/in/tarkeshwar-prasad-kundal-94027683/)
-[![GitHub](https://github.com/TPkundal?tab=repositories)
-[![Docker](https://hub.docker.com/repositories/tpkundal)
 
 ![Docker Logo](https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png)
 
